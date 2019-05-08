@@ -1,4 +1,4 @@
-# Test-Programs
+# Arduino UNO Unity Controller
 This is a basic Unity Game Controller made with the Arduino UNO.
 
 The setup has 4 controllers for each direction (left, right, up, down).  These can be upgraded or modified depending on your projects.
